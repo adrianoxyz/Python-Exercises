@@ -3,7 +3,7 @@
 num = int(input('Digite o número: '))
 
 if num > 0 or num == 0:
-    print('O número é par!')
+    print('O número informado é par!')
 
 else:
-    print('O número é ímpar!')
+    print('O número informado é ímpar!')
