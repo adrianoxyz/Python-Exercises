@@ -13,5 +13,3 @@ elif n2 > n1 and n2 > n3:
 elif n3 > n1 and n3 > n1:
     print(f"O maior número é o {n3}")
 
-else:
-    print("Números iguais!")
